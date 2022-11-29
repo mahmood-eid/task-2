@@ -55,6 +55,7 @@ body {
 .header{
     padding: 20px;
 }
+
 /* Start Header */
 .header .container{
     display: flex;
@@ -132,5 +133,4 @@ body {
 .header .links ul li:not(:last-child) a {
     border-bottom: 1px solid #ddd;
 }
-
 /* End Header */
