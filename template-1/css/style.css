@@ -173,3 +173,6 @@ body {
     padding-bottom: var(--section-padding);
     background-color: var(--section-background);
 }
+.features .container{
+    display: grid;
+}
