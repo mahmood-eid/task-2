@@ -250,6 +250,11 @@ body {
 .services .services-content.image img{
 width: 260px;
 }
+@media (max-width: 1199) {
+    image-column {
+        display: none;
+    }
+}
 
 
 
