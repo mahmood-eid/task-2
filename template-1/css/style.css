@@ -394,3 +394,8 @@ width: 260px;
     padding-bottom: var(--section-padding);
     background-color: var(--section-background);
 }
+.contact .info {
+    padding-top: var(--section-padding);
+    padding-bottom: var(--section-padding);
+    text-align: center;
+}
