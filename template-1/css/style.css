@@ -313,5 +313,9 @@ width: 260px;
  /* End Portfolio */
 
 /* Start About */
+.about {
+    padding-top: var(--section-padding);
+    padding-bottom: calc(var(--section-padding) + 60px);
+}
 
 /* End About */
