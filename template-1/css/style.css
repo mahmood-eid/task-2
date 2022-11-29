@@ -287,5 +287,10 @@ width: 260px;
     padding-bottom: var(--section-padding);
     background-color: var(--section-background);
 }
-
-  /* End Portfolio */
+.portfolio .portfolio-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap: 30px;
+    margin-top: 80px;
+}
+ /* End Portfolio */
