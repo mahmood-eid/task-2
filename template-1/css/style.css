@@ -4,6 +4,7 @@
     --secondary-color: #2c4755;
     --section-background: #f6f6f6;
     --main-duration: 0.4s;
+    --section-padding: 60px;
 }
 /* End Variables */
 
@@ -163,3 +164,12 @@ body {
     line-height: 1.8;
 }
 /* End landing Section */
+
+/* Start Features */
+
+/* End Features */
+.features {
+    padding-top: var(--section-padding);
+    padding-bottom: var(--section-padding);
+    background-color: var(--section-background);
+}
