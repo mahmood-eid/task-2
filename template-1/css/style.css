@@ -419,3 +419,7 @@ width: 260px;
     margin-top: 20px;
     font-size: 16px;
 }
+.contact .info .social i {
+    margin-left: 10px;
+    color: var(--secondary-color);
+}
