@@ -197,3 +197,11 @@ body {
 }
 /* End Features */
 
+/* Start services */
+.service {
+    padding-top: var(--section-padding);
+    padding-bottom: var(--section-padding);
+}
+
+/* End services */
+
