@@ -97,6 +97,9 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f6f6f6;
+    position: absolute;
+    right: 0;
+    min-width: 200px;
 }
 .header .links ul::before{
     content: "";
