@@ -123,3 +123,6 @@ body {
     color: #333;
     transition: var(--main-duration);
 }
+.header .links ul li a {
+    padding-left: 25px;
+}
