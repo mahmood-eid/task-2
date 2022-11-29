@@ -389,3 +389,8 @@ width: 260px;
 /* End About */
 
 /* Start Contact */
+.contact {
+    padding-top: var(--section-padding);
+    padding-bottom: var(--section-padding);
+    background-color: var(--section-background);
+}
