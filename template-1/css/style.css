@@ -135,3 +135,7 @@ body {
 }
 /* End Header */
 
+/* Start Landing Section */
+.landing {
+    background-image: url(../images/mountain.jpg);
+}
